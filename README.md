@@ -1,47 +1,65 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
+
 # awesome-synthetic-graph-generator
 
 
-+ **Update**: This repository is actively updated.  `2024/5/8`
++ **Update**: This repository is actively updated.  `2024/5/10`
 + **Collection**: We've compiled a comprehensive list of synthetic graph generators.
 + **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
 
 
 
+## Contents
+
+
+
+
++ [Learning based generative models](#Learning based generative models)
++ [Traditional generative models](#Traditional generative models)
++ [Configuration models](#Configuration models)
++ [Evaluation](#Evaluation)
+
+
+
+
+
 ## Learning based generative models
 
-[Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling](https://arxiv.org/pdf/2305.04111.pdf) `ICML 2023`
+**Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling**
 
-> Degree guided diffusion model for both single graph and multi graph learning.
+*Xiaohui Chen, Jiaxing He Xu Han, Li-Ping Liu*
 
+ICML 2023. [[paper](https://arxiv.org/pdf/2305.04111.pdf)]
 
+**SaGess: Sampling Graph Denoising Diffusion Model for Scalable Graph Generation**
 
-[SaGess: Sampling Graph Denoising Diffusion Model for Scalable Graph Generation ](https://arxiv.org/abs/2306.16827)  `2023 Arxiv `
+*Stratis Limnios, Praveen Selvaraj, Mihai Cucuringu, Carsten Maple, Gesine Reinert, Andrew Elliott*
 
-> Sampling from Digress model
+Arxiv 2023. [[paper](https://arxiv.org/abs/2306.16827)]
 
+**NetGAN without GAN: From Random Walks to Low-Rank Approximations**
 
+*Luca Rendsburg, Holger Heidrich, Ulrike Von Luxburg*
 
- [NetGAN without GAN: From Random Walks to Low-Rank Approximations ](https://proceedings.mlr.press/v119/rendsburg20a.html) `ICML 2020`
+ICML 2020. [[paper](https://proceedings.mlr.press/v119/rendsburg20a.html)]
 
-> Simplying  `netGAN` by calculating the stationary distribution of the transition matrix
+**Stochastic Blockmodels meet Graph Neural Networks**
 
+*Nikhil Mehta, Lawrence Carin Duke, Piyush Rai*
 
+ICML 2019. [[paper](https://proceedings.mlr.press/v97/mehta19a.html)]
 
-[Stochastic Blockmodels meet Graph Neural Networks](https://proceedings.mlr.press/v97/mehta19a.html)  `ICML 2019`
+**NetGAN: Generating Graphs via Random Walks**
 
->  Deep Stochastic Blockmodels
+*Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann*
 
+ICML 2018. [[paper](https://paperswithcode.com/paper/netgan-generating-graphs-via-random-walks)]
 
+**Variational Graph Auto-Encoders**
 
-[NetGAN: Generating Graphs via Random Walks](https://paperswithcode.com/paper/netgan-generating-graphs-via-random-walks) ```ICML 2018```
+*Thomas N. Kipf, Max Welling*
 
-> Use GAN to generate random walks to simulate the distribution of the edges.
-
-
-
-[Variational Graph Auto-Encoders](https://arxiv.org/abs/1611.07308) `NIPS 2016`
-
-> VAE for graphs
+NIPS 2016. [[paper](https://arxiv.org/abs/1611.07308)]
 
 
 
@@ -49,15 +67,17 @@
 
 ## Traditional generative models
 
-[A Scalable Generative Graph Model with Community Structure](https://arxiv.org/abs/1302.6636)  `2013`
+**A Scalable Generative Graph Model with Community Structure**
 
-> efficient BTER model
+*Tamara G. Kolda, Ali Pinar, Todd Plantenga, C. Seshadhri*
 
+SIAM 2014. [[paper](https://arxiv.org/abs/1302.6636)]
 
+**Kronecker Graphs: An Approach to Modeling Networks**
 
-[Kronecker Graphs: An Approach to Modeling Networks](https://www.jmlr.org/papers/volume11/leskovec10a/leskovec10a.pdf) `JMLR 2010`
+*Jure Leskovec, Deepayan Chakrabarti, Jon Kleinberg, Christos Faloutsos, Zoubin Ghahramani*
 
-> Kronecker graphs model
+JMLR 2010. [[paper](https://www.jmlr.org/papers/volume11/leskovec10a/leskovec10a.pdf)]
 
 
 
@@ -65,7 +85,27 @@
 
 ## Configuration models
 
-Erdős–Rényi model
+**Erdős–Rényi model**
+
+*P. Erdős, A. Rényi (Budapest).*
+
+Publicationes Mathematicae 1959. [[paper](https://www.renyi.hu/~p_erdos/1959-11.pdf)]
 
 
+
+
+
+## Evaluation
+
+**On the Power of Edge Independent Graph Models**
+
+*Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos E. Tsourakakis*
+
+NIPS 21. [[paper](https://arxiv.org/abs/2111.00048)]
+
+**On the Role of Edge Dependency in Graph Generative Models**
+
+*Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos Tsourakakis*
+
+Arxiv 23. [[paper](https://arxiv.org/abs/2312.03691)]
 
