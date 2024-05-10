@@ -13,11 +13,11 @@
 
 
 
-
-+ [Learning based generative models](#Learning based generative models)
-+ [Traditional generative models](#Traditional generative models)
-+ [Configuration models](#Configuration models)
++ [Learning-based-generative-models](#Learning-based-generative-models)
++ [Traditional-generative-models](#Traditional-generative-models)
++ [Configuration-models](#Configuration-models)
 + [Evaluation](#Evaluation)
+
 
 
 
