@@ -3,7 +3,7 @@
 # awesome-synthetic-graph-generator
 
 
-+ **Update**: This repository is actively updated.  `2024/5/10`
++ **Update**: This repository is actively updated.  `2024/5/15`
 + **Collection**: We've compiled a comprehensive list of synthetic graph generators.
 + **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
 
@@ -13,9 +13,9 @@
 
 
 
-+ [Learning-based-generative-models](#Learning-based-generative-models)
-+ [Traditional-generative-models](#Traditional-generative-models)
-+ [Configuration-models](#Configuration-models)
++ [Learning based generative models](#Learning-based-generative-models)
++ [Traditional generative models](#Traditional-generative-models)
++ [Configuration models](#Configuration-models)
 + [Evaluation](#Evaluation)
 
 
@@ -37,6 +37,18 @@ ICML 2023. [[paper](https://arxiv.org/pdf/2305.04111.pdf)]
 
 Arxiv 2023. [[paper](https://arxiv.org/abs/2306.16827)]
 
+**FlowGEN: A Generative Model for Flow Graphs**
+*Furkan Kocayusufoglu, A. Silva, Ambuj K. Singh*
+
+KDD 2022. [[paper](https://dl.acm.org/doi/10.1145/3534678.3539406)]
+
+**Efficient Learning-based Community-Preserving Graph Generation**
+
+*Sheng Xiang, Dawei Cheng, Jianfu Zhang, Zhenwei Ma, Xiaoyang Wang, Ying Zhang*
+
+ICDE 2022. [[paper](https://ieeexplore.ieee.org/document/9835281)]
+
+
 **NetGAN without GAN: From Random Walks to Low-Rank Approximations**
 
 *Luca Rendsburg, Holger Heidrich, Ulrike Von Luxburg*
@@ -48,6 +60,12 @@ ICML 2020. [[paper](https://proceedings.mlr.press/v119/rendsburg20a.html)]
 *Nikhil Mehta, Lawrence Carin Duke, Piyush Rai*
 
 ICML 2019. [[paper](https://proceedings.mlr.press/v97/mehta19a.html)]
+
+**Graphite: Iterative Generative Modeling of Graphs**
+
+*Aditya Grover, Aaron Zweig, Stefano Ermon*
+
+ICML 2019. [[paper](https://arxiv.org/pdf/1803.10459)]
 
 **NetGAN: Generating Graphs via Random Walks**
 
