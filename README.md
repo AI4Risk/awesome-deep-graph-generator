@@ -3,7 +3,7 @@
 # awesome-synthetic-graph-generator
 
 
-+ **Update**: This repository is actively updated.  `2024/5/15`
++ **Update**: This repository is actively updated.  `2024/5/21`
 + **Collection**: We've compiled a comprehensive list of synthetic graph generators.
 + **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
 
@@ -17,6 +17,7 @@
 + [Traditional generative models](#Traditional-generative-models)
 + [Configuration models](#Configuration-models)
 + [Evaluation](#Evaluation)
++ [Books](#Books)
 
 
 
@@ -98,8 +99,22 @@ SIAM 2014. [[paper](https://arxiv.org/abs/1302.6636)]
 JMLR 2010. [[paper](https://www.jmlr.org/papers/volume11/leskovec10a/leskovec10a.pdf)]
 
 
+**R-MAT: A Recursive Model for Graph Mining**
+
+*Deepayan Chakrabarti, Yiping Zhan, Christos Faloutsos*
+SIAM 2004. [[paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611972740.43)]
+
+**Community Detection in Networks with Node Attributes**
+
+*Jaewon Yang, Julian McAuley, Jure Leskovec*
+
+ICDM 2013. [[paper](https://arxiv.org/abs/1401.7267)]
 
 
+**Community detection in graphs(Stochastic BlockModels)**
+*Santo Fortunato*
+
+Physics Reports 2010 [[paper](https://arxiv.org/abs/0906.0612)]
 
 ## Configuration models
 
@@ -125,5 +140,13 @@ NIPS 21. [[paper](https://arxiv.org/abs/2111.00048)]
 
 *Sudhanshu Chanpuriya, Cameron Musco, Konstantinos Sotiropoulos, Charalampos Tsourakakis*
 
-Arxiv 23. [[paper](https://arxiv.org/abs/2312.03691)]
+Arxiv 2023. [[paper](https://arxiv.org/abs/2312.03691)]
 
+
+## Books
+
+**Inductive Bias in Machine Learning**
+
+*Luca Silvester Rendsburg*
+
+Arxiv 2023. [[book](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h48H5WEAAAAJ&citation_for_view=h48H5WEAAAAJ:zYLM7Y9cAGgC)]
