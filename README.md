@@ -7,21 +7,13 @@
 + **Collection**: We've compiled a comprehensive list of synthetic graph generators.
 + **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
 
-
-
 ## Contents
-
-
 
 + [Learning based generative models](#Learning-based-generative-models)
 + [Traditional generative models](#Traditional-generative-models)
 + [Configuration models](#Configuration-models)
 + [Evaluation](#Evaluation)
 + [Books](#Books)
-
-
-
-
 
 
 ## Learning based generative models
@@ -126,8 +118,6 @@ Publicationes Mathematicae 1959. [[paper](https://www.renyi.hu/~p_erdos/1959-11.
 
 
 
-
-
 ## Evaluation
 
 **On the Power of Edge Independent Graph Models**
@@ -150,3 +140,12 @@ Arxiv 2023. [[paper](https://arxiv.org/abs/2312.03691)]
 *Luca Silvester Rendsburg*
 
 Arxiv 2023. [[book](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=h48H5WEAAAAJ&citation_for_view=h48H5WEAAAAJ:zYLM7Y9cAGgC)]
+
+
+
+## All Thanks to Our Contributors :
+
+<a href="https://github.com/AI4Risk/awesome-deep-graph-generator/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AI4Risk/awesome-deep-graph-generator" />
+</a>
+
