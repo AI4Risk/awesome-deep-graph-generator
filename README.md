@@ -62,6 +62,12 @@ ICML 2020. [[paper](https://proceedings.mlr.press/v119/rendsburg20a.html)]
 
 ICML 2019. [[paper](https://proceedings.mlr.press/v97/mehta19a.html)]
 
+**Variational graph recurrent neural networks**
+
+*Ehsan Hajiramezanali∗, Arman Hasanzadeh∗, Nick Duffield, Krishna Narayanan, Mingyuan Zhou, Xiaoning Qian*
+
+NIPS 2019. [[paper](https://dl.acm.org/doi/10.5555/3454287.3455247)]
+
 **Graphite: Iterative Generative Modeling of Graphs**
 
 *Aditya Grover, Aaron Zweig, Stefano Ermon*
