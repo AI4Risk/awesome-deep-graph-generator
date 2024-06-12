@@ -10,6 +10,7 @@
 ## Contents
 
 + [Learning based generative models](#Learning-based-generative-models)
++ [Graph Autoencoders](#Graph-Autoencoders)
 + [Traditional generative models](#Traditional-generative-models)
 + [Configuration models](#Configuration-models)
 + [Evaluation](#Evaluation)
@@ -71,6 +72,52 @@ ICML 2019. [[paper](https://arxiv.org/pdf/1803.10459)]
 *Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann*
 
 ICML 2018. [[paper](https://paperswithcode.com/paper/netgan-generating-graphs-via-random-walks)]
+
+
+
+## Graph Autoencoders
+
+**GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner**
+
+*Zhenyu Hou, Yufei He, Yukuo Cen, Xiao Liu, Yuxiao Dong, Evgeny Kharlamov, Jie Tang*
+
+WWW 2023. [[paper](https://arxiv.org/abs/2304.04779)]
+
+**GraphMAE: Self-Supervised Masked Graph Autoencoders**
+
+*Zhenyu Hou, Xiao Liu, Yukuo Cen, Yuxiao Dong, Hongxia Yang, Chunjie Wang, Jie Tang*
+
+KDD 2022. [[paper](https://arxiv.org/abs/2205.10803)]
+
+**Adaptive Graph Encoder for Attributed Graph Embedding**
+
+*Ganqu Cui, Jie Zhou, Cheng Yang, Zhiyuan Liu*
+
+KDD 2020. [[paper](https://arxiv.org/abs/2007.01594)]
+
+**GPT-GNN: Generative Pre-Training of Graph Neural Networks**
+
+*Ziniu Hu, Yuxiao Dong, Kuansan Wang, Kai-Wei Chang, Yizhou Sun*
+
+KDD 2020. [[paper](https://arxiv.org/abs/2007.01594)]
+
+**Adversarially Regularized Graph Autoencoder for Graph Embedding**
+
+*Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang*
+
+IJCAI 2019. [[paper](https://arxiv.org/abs/1802.04407)]
+
+**Adversarially Regularized Graph Autoencoder for Graph Embedding**
+
+*Shirui Pan, Ruiqi Hu, Guodong Long, Jing Jiang, Lina Yao, Chengqi Zhang*
+
+IJCAI 2019. [[paper](https://arxiv.org/abs/1802.04407)]
+
+**MGAE: Marginalized Graph Autoencoder for Graph Clustering**
+
+*Chun Wang, PictureShirui Pan, PictureGuodong Long, PictureXingquan Zhu, PictureJing Jiang*
+
+CIKM 2017. [[paper](https://dl.acm.org/doi/10.1145/3132847.3132967)]
 
 **Variational Graph Auto-Encoders**
 
