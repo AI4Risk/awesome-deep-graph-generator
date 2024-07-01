@@ -18,59 +18,52 @@
 
 
 ## Learning based generative models
-
 **Efficient and Degree-Guided Graph Generation via Discrete Diffusion Modeling**
-
 *Xiaohui Chen, Jiaxing He Xu Han, Li-Ping Liu*
-
 ICML 2023. [[paper](https://arxiv.org/pdf/2305.04111.pdf)]
 
 **SaGess: Sampling Graph Denoising Diffusion Model for Scalable Graph Generation**
-
 *Stratis Limnios, Praveen Selvaraj, Mihai Cucuringu, Carsten Maple, Gesine Reinert, Andrew Elliott*
-
 Arxiv 2023. [[paper](https://arxiv.org/abs/2306.16827)]
 
 **FlowGEN: A Generative Model for Flow Graphs**
 *Furkan Kocayusufoglu, A. Silva, Ambuj K. Singh*
-
 KDD 2022. [[paper](https://dl.acm.org/doi/10.1145/3534678.3539406)]
 
 **Efficient Learning-based Community-Preserving Graph Generation**
-
 *Sheng Xiang, Dawei Cheng, Jianfu Zhang, Zhenwei Ma, Xiaoyang Wang, Ying Zhang*
-
 ICDE 2022. [[paper](https://ieeexplore.ieee.org/document/9835281)]
 
+**Scalable Deep Generative Modeling for Sparse Graphs**
+*Hanjun Dai, Azade Nazi, Yujia Li, Bo Dai, Dale Schuurmans*
+ICML 2020. [[paper](https://arxiv.org/abs/2006.15502)]
 
 **NetGAN without GAN: From Random Walks to Low-Rank Approximations**
-
 *Luca Rendsburg, Holger Heidrich, Ulrike Von Luxburg*
-
 ICML 2020. [[paper](https://proceedings.mlr.press/v119/rendsburg20a.html)]
 
-**Stochastic Blockmodels meet Graph Neural Networks**
-
-*Nikhil Mehta, Lawrence Carin Duke, Piyush Rai*
-
-ICML 2019. [[paper](https://proceedings.mlr.press/v97/mehta19a.html)]
-
 **Variational graph recurrent neural networks**
-
 *Ehsan Hajiramezanali∗, Arman Hasanzadeh∗, Nick Duffield, Krishna Narayanan, Mingyuan Zhou, Xiaoning Qian*
-
 NIPS 2019. [[paper](https://dl.acm.org/doi/10.5555/3454287.3455247)]
 
+**Stochastic Blockmodels meet Graph Neural Networks**
+*Nikhil Mehta, Lawrence Carin Duke, Piyush Rai*
+ICML 2019. [[paper](https://proceedings.mlr.press/v97/mehta19a.html)]
+
 **Graphite: Iterative Generative Modeling of Graphs**
-
 *Aditya Grover, Aaron Zweig, Stefano Ermon*
-
 ICML 2019. [[paper](https://arxiv.org/pdf/1803.10459)]
 
+**Efficient Graph Generation with Graph Recurrent Attention Networks**
+*Renjie Liao, Yujia Li, Yang Song, Shenlong Wang, Will Hamilton, David Duvenaud, Raquel Urtasun, Richard Zemel*
+NeurIPS 2019. [[paper](https://proceedings.neurips.cc/paper/2019/file/d0921d442ee91b896ad95059d13df618-Paper.pdf)]
+
+**GraphRNN: Generating Realistic Graphs with Deep Auto-regressive Models**
+*Jiaxuan You, Rex Ying, Xiang Ren, William L. Hamilton, Jure Leskovec*
+ICML 2018. [[paper](https://ar5iv.labs.arxiv.org/html/1802.08773)]
+
 **NetGAN: Generating Graphs via Random Walks**
-
 *Aleksandar Bojchevski, Oleksandr Shchur, Daniel Zügner, Stephan Günnemann*
-
 ICML 2018. [[paper](https://paperswithcode.com/paper/netgan-generating-graphs-via-random-walks)]
 
 
