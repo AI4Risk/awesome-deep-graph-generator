@@ -2,7 +2,7 @@
 
 # awesome-synthetic-graph-generator
 
-- **Update**: This repository is actively updated. `2026/4/18`
+- **Update**: This repository is actively updated. `2026/9/5`
 - **Collection**: We've compiled a comprehensive list of synthetic graph generators.
 - **Collaborate**: If there’s anything missing or if you'd like to contribute, please don't hesitate to get in touch!
 
@@ -37,6 +37,16 @@
 
 #### LLM Multi-Agent Topology Construction
 
+- **Dynamic Generation of Multi LLM Agents Communication Topologies with Graph Diffusion Models**  
+  Eric Hanchen Jiang, Mengting Li, Guancheng Wan, Xiao Liang, Sophia Yin, Yuchen Wu, Xinfeng Li, Yizhou Sun, Wei Wang, Kai-Wei Chang, Ying Nian Wu  
+  ACL 2026.  
+  [Paper](https://aclanthology.org/2026.acl-long.1764/) | [Code](https://github.com/ericjiang18/diffusion_agent)
+
+- **TopoDIM: One-shot Topology Generation of Diverse Interaction Modes for Multi-Agent Systems**  
+  Rui Sun, Jie Ding, Chenghua Gong, Tianjun Gu, Yihang Jiang, Juyuan Zhang, Liming Pan, Linyuan Lü  
+  Findings of ACL 2026.  
+  [Paper](https://aclanthology.org/2026.findings-acl.207/) | [Code](https://github.com/Sundiasy/TopoDIM)
+
 - **GoAgent: Group-of-Agents Communication Topology Generation for LLM-based Multi-Agent Systems**  
   Hongjiang Chen, Xin Zheng, Yixin Liu, Pengfei Jiao, Shiyuan Li, Huan Liu, Zhidong Zhao, Ziqi Xu, Ibrahim Khalil, Shirui Pan  
   arXiv 2026.  
@@ -48,6 +58,16 @@
   [Paper](https://aclanthology.org/2025.emnlp-main.808/) | [Code](https://github.com/hengzzzhou/ReSo)
 
 ## Learning based generative models
+
+- **Bures-Wasserstein Flow Matching for Graph Generation**  
+  Keyue Jiang, Jiahao Cui, Xiaowen Dong, Laura Toni  
+  ICLR 2026.  
+  [Paper](https://arxiv.org/abs/2506.14020)
+
+- **HOG-Diff: Higher-Order Guided Diffusion for Graph Generation**  
+  Yiming Huang, Tolga Birdal  
+  ICLR 2026.  
+  [Paper](https://arxiv.org/abs/2502.04308) | [Code](https://github.com/Yiminghh/HOG-Diff)
 
 - **Efficient Dynamic Attributed Graph Generation**  
   Fan Li, Xiaoyang Wang, Dawei Cheng, Cong Chen, Ying Zhang, Xuemin Lin  
@@ -145,6 +165,11 @@
   [Paper](https://paperswithcode.com/paper/netgan-generating-graphs-via-random-walks) | [Code](https://github.com/danielzuegner/netgan)
 
 ## Graph Autoencoders
+
+- **HAGGLE: Get a better deal using a Hierarchical Autoencoder for Graph Generation and Latent-space Expressivity**  
+  Audun Myers, Stephen J. Young, Tegan Emerson  
+  TAG-DS 2025 (published 2026).  
+  [Paper](https://proceedings.mlr.press/v321/myers26a.html)
 
 - **GraphMAE2: A Decoding-Enhanced Masked Self-Supervised Graph Learner**  
   Zhenyu Hou, Yufei He, Yukuo Cen, Xiao Liu, Yuxiao Dong, Evgeny Kharlamov, Jie Tang  
